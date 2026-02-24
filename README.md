@@ -3,7 +3,7 @@
 - 📖 Currently learning **Machine Learning**  
 - 🚀 Developing **APIs with Ruby on Rails** using **GraphQL**  
 - ⚙️ Experience with **asynchronous batch processing** using **Redis** + **Sidekiq**, with **PostgreSQL** as the main database
-- ⚛ Computer Science 5/8 - UFAL  
+- ⚛ Computer Science 6/8 - UFAL  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png" width="20.5" height="13.4">&nbsp;I am Brazilian, AL
 
 <div align="center">
