@@ -1,18 +1,18 @@
 ## Hi, I'm Francisco Colatino
 
-Back-end developer moving into **AI engineering**, focused on **LLM systems, retrieval and evaluation**.\
-Computer Science student at **UFAL** (Alagoas, Brazil): all courses completed, thesis in progress.
+**Back-end developer** (Ruby on Rails) and **Computer Science student** at UFAL (Alagoas, Brazil).\
+Currently studying machine learning and LLMs through personal and academic projects.
 
 - **Back-end Developer @ Tracking Trade** (2024–present): Ruby on Rails, GraphQL and REST APIs, PostgreSQL, Redis + Sidekiq, RSpec
-- **Researcher @ UFAL × Petrobras** (2024–present): machine learning for predictive maintenance on industrial time series
-- **Now:** building and measuring RAG systems; next up, LoRA fine-tuning of small LLMs
+- **Research project UFAL × Petrobras** (2024–present): machine learning for predictive maintenance on industrial time series
+- **Learning:** LLMs and retrieval-augmented generation (RAG), and how to evaluate them
 
 ### Featured projects
 
 **[rag-ufal](https://github.com/franciscocolatino/rag-ufal)** · Python · LLMs · RAG\
-Question answering over UFAL's official documents in Portuguese, citing document and page, and saying so when the answer isn't there.
+Study project: question answering over UFAL's official documents in Portuguese, citing document and page, and saying so when the answer isn't there.
 Built without RAG frameworks (e5 embeddings, NumPy vector search, BM25, reciprocal rank fusion, local Qwen2.5-3B via Ollama)
-and evaluated on a 51-question benchmark I built: **86% hit@5** and **100% correct refusals** on unanswerable questions.
+and evaluated on a 51-question test set: **86% hit@5** and **100% correct refusals** on unanswerable questions.
 
 **[house-prices-experimento-ml](https://github.com/franciscocolatino/house-prices-experimento-ml)** · Python · Machine Learning\
 Comparison of six regression models on the Ames Housing dataset; XGBoost tuned with Optuna reached the best score (**R² 0.93**).
@@ -28,7 +28,6 @@ Lexical and syntactic analyzer for a subset of Python (team project for the Comp
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-1F4E79?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
