@@ -17,8 +17,9 @@ and evaluated on a 51-question test set: **86% hit@5** and **100% correct refusa
 **[house-prices-experimento-ml](https://github.com/franciscocolatino/house-prices-experimento-ml)** · Python · Machine Learning\
 Comparison of six regression models on the Ames Housing dataset; XGBoost tuned with Optuna reached the best score (**R² 0.93**).
 
-**[compiladores-mdc](https://github.com/franciscocolatino/compiladores-mdc)** · Python · ANTLR4\
-Lexical and syntactic analyzer for a subset of Python (team project for the Compilers course).
+**[classificacao-frutas-visao-computacional](https://github.com/franciscocolatino/classificacao-frutas-visao-computacional)** · Python · Computer Vision\
+Fruit classification with hand-crafted shape (Fourier descriptors) and texture (GLCM + LBP) features and an SVM;
+**97% accuracy** on 8 classes of the Fruits 360 dataset (team project for the Computer Vision course).
 
 ### Tech
 
