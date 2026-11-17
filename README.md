@@ -1,6 +1,6 @@
 ## Hi, I'm Francisco Colatino
 
-**Back-end developer** (Ruby on Rails) and **Computer Science student** at UFAL (Alagoas, Brazil).\
+**Back-end developer** (Ruby on Rails) and **Computer Science student** at UFAL (Alagoas, Brazil), semester 7/8.\
 Currently studying machine learning and LLMs through personal and academic projects.
 
 - **Back-end Developer @ Tracking Trade** (2024–present): Ruby on Rails, GraphQL and REST APIs, PostgreSQL, Redis + Sidekiq, RSpec
